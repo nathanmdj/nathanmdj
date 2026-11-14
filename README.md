@@ -13,7 +13,7 @@ I build production backends and the infrastructure under them: APIs, databases, 
 
 ### What I build
 
-- **Backend APIs**: FastAPI, Go, Node · REST design, auth, background jobs, scheduled workers
+- **Backend APIs**: FastAPI, Node · REST design, auth, background jobs, scheduled workers
 - **Data &amp; AI pipelines**: crawlers, LLM structured extraction, sync and reconciliation jobs
 - **Postgres / Supabase**: schema design, multi-tenant RLS, migrations, edge functions
 - **Full-stack apps**: Next.js, React, React Native (Expo), Tailwind, PWAs
@@ -42,7 +42,6 @@ I build production backends and the infrastructure under them: APIs, databases, 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
